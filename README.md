@@ -1,18 +1,44 @@
-## Getting Started
+# Desafio-UML-IPhone-DIO
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
+Este projeto foi desenvolvido como parte de um desafio para criar um Diagrama UML representando um iPhone e suas funcionalidades. O objetivo é demonstrar a estrutura do sistema de forma clara e organizada, utilizando conceitos de programação orientada a objetos.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+# Estrutura do Diagrama
+O diagrama UML inclui os seguintes componentes:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Ator:
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Usuário: Representa a interação do usuário com o sistema.
+Sistema:
 
-## Dependency Management
+iPhone: O sistema principal que contém as funcionalidades.
+Subsistemas:
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Aparelho Telefonico: Implementa funcionalidades de chamadas.
+
+Navegador Internet: Representa as operações de navegação na web.
+
+Reprodutor Musical: Gerencia a reprodução de músicas e arquivos de áudio.
+
+# Relacionamentos
+O Usuário interage diretamente com o iPhone, que encapsula as diferentes interfaces.
+
+Cada subsistema possui métodos que representam suas funcionalidades específicas, como ligar, exibir página e tocar música.
+
+# Objetivos do Projeto
+
+Compreender a importância de representar sistemas de software através de diagramas UML.
+
+Aplicar conceitos de classes, interfaces e relacionamentos em um contexto prático.
+
+Criar uma documentação visual que possa ser usada como referência para desenvolvimento futuro.
+
+# Tecnologias Utilizadas
+Lucidchart: Ferramenta utilizada para criar o diagrama UML.
+
+Link: https://encurtador.com.br/RF3qH
+
+
+
+>>>>>>> bc6a79367b06efb0b6c377fa2c946129a5ba8bd5

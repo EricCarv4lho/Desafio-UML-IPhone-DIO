@@ -41,4 +41,4 @@ Link: https://encurtador.com.br/RF3qH
 
 
 
->>>>>>> bc6a79367b06efb0b6c377fa2c946129a5ba8bd5
+=

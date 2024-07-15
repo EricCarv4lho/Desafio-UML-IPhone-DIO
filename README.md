@@ -37,5 +37,7 @@ Criar uma documentação visual que possa ser usada como referência para desenv
 # Tecnologias Utilizadas
 Lucidchart: Ferramenta utilizada para criar o diagrama UML.
 
+Link: https://encurtador.com.br/RF3qH
+
 
 

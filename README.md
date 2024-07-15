@@ -41,4 +41,4 @@ Link: https://encurtador.com.br/RF3qH
 
 
 
-=
+

@@ -4,7 +4,7 @@
 
 Este projeto foi desenvolvido como parte de um desafio para criar um Diagrama UML representando um iPhone e suas funcionalidades. O objetivo é demonstrar a estrutura do sistema de forma clara e organizada, utilizando conceitos de programação orientada a objetos.
 
-Estrutura do Diagrama
+# Estrutura do Diagrama
 O diagrama UML inclui os seguintes componentes:
 
 Ator:
@@ -16,16 +16,25 @@ iPhone: O sistema principal que contém as funcionalidades.
 Subsistemas:
 
 Aparelho Telefonico: Implementa funcionalidades de chamadas.
+
 Navegador Internet: Representa as operações de navegação na web.
+
 Reprodutor Musical: Gerencia a reprodução de músicas e arquivos de áudio.
-Relacionamentos
+
+# Relacionamentos
 O Usuário interage diretamente com o iPhone, que encapsula as diferentes interfaces.
+
 Cada subsistema possui métodos que representam suas funcionalidades específicas, como ligar, exibir página e tocar música.
-Objetivos do Projeto
+
+# Objetivos do Projeto
+
 Compreender a importância de representar sistemas de software através de diagramas UML.
+
 Aplicar conceitos de classes, interfaces e relacionamentos em um contexto prático.
+
 Criar uma documentação visual que possa ser usada como referência para desenvolvimento futuro.
-Tecnologias Utilizadas
+
+# Tecnologias Utilizadas
 Lucidchart: Ferramenta utilizada para criar o diagrama UML.
-Conclusão
-Este projeto proporciona uma visão clara e organizada da estrutura de um iPhone, servindo como um ponto de partida para discussões sobre design de software e programação orientada a objetos.
+
+
